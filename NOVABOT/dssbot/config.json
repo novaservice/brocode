@@ -1,0 +1,47 @@
+{
+    "ownerID": "998195862436057109",
+    "rootGuild": "1045972829709017130",
+
+    "ticketCategory": "1064626214364516502",
+    "ticketLog": "1064626255430946836",
+    "ticketCategories": ["Support", "Współprace", "Zamówienia", "Donate"],
+    "ticketRole": "1064976327633031208",
+
+    "verifyRole": "1064976327633031208",
+    "autoRole": ["1064976327633031208", "2"],
+    "muteRole": "1065211476354277398",
+
+    "stats": [
+        {
+            "id": "1065199167745564742",
+            "name": "👥 Cel: <>/100"
+        },
+        {
+            "id": "1065199185089024061",
+            "name": "📁 Nowy: <>"
+        },
+        {
+            "id": "1065199208598089788",
+            "name": "💀 Bans: <>"
+        }
+    ],
+
+    "reactionRole": [
+        {
+            "content": "wybierz role",
+            "roles": [
+                {
+                    "id": "1065236003113144351",
+                    "button": "1"
+                },
+                {
+                    "id": "1065236017084383251",
+                    "button": "2"
+                }
+            ]
+        }
+    ],
+
+    "TOKEN": "MTE3NDgwNTkyNzE3MDQwODUwMA.GI-POl.0hcb12Tb4-gDdgRjpaQrhxSG0G2EpH-805nDps",
+    "COPYRIGHT": "Fully made by skayvs"
+}

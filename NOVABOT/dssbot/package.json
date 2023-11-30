@@ -1,0 +1,17 @@
+{
+  "name": "zamowienie",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "skayvs",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^8.0.1",
+    "discord-html-transcripts": "^3.1.2",
+    "discord.js": "^14.7.1",
+    "nodemon": "^2.0.20"
+  }
+}
